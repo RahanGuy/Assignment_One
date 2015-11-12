@@ -33,7 +33,7 @@ function handleRequest(request, response){
     // ASSIGNMENT
     // 1. Add a debug message which ouputs the sum of the simple equation above. Values are available in the augend, addend 
     // and sum (global) variables
-    console.re.log('My server ip address is: ' + server_ip_address);
+    console.re.log(sum);
     // 2. Add a debug message which ouputs the current values of the augend addend and sum variables
 }
 
