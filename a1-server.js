@@ -33,7 +33,7 @@ function handleRequest(request, response){
     // ASSIGNMENT
     // 1. Add a debug message which ouputs the sum of the simple equation above. Values are available in the augend, addend 
     // and sum (global) variables
-    console.re.log('The sum of ' + augend + ' and ' + addend + ' = ');
+    console.re.log('The sum of ' + augend + ' and ' + addend + ' = ' + (augend + addend));
     // 2. Add a debug message which ouputs the current values of the augend addend and sum variables
 }
 
